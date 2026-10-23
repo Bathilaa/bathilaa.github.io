@@ -53,6 +53,7 @@ h1 span{color:var(--purple)}
 .row{border-top:1px solid var(--line);padding:20px 0;display:flex;justify-content:space-between;gap:16px}
 .row.stacked{display:block}
 .row h3{font-size:19px;font-weight:600}
+.row.minor h3{font-size:15px}
 .muted{color:var(--muted);font-size:15px;margin-top:4px}
 .date{white-space:nowrap;margin-top:0}
 .uni{margin-top:6px;font-size:17px;font-weight:600;color:var(--purple)}
